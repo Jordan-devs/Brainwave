@@ -2,12 +2,6 @@
 
 Brainwave is an innovative project designed to harness the power of cutting-edge technology to solve real-world problems. This repository contains the source code, documentation, and resources for the project.
 
-## Features
-
-- **Feature 1**: Briefly describe the first key feature.
-- **Feature 2**: Briefly describe the second key feature.
-- **Feature 3**: Briefly describe the third key feature.
-
 ## Installation
 
 1. Clone the repository:
