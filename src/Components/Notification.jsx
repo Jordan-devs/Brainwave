@@ -1,5 +1,5 @@
 import React from "react";
-import { notificationImages } from "../constants";
+import { notificationImages } from "../Constants";
 import { notification1 } from "../../public/assets";
 
 const Notification = ({ className, title }) => {

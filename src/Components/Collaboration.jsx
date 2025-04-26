@@ -1,6 +1,6 @@
 import React from "react";
 import Section from "./Section";
-import { collabApps, collabContent, collabText } from "../constants";
+import { collabApps, collabContent, collabText } from "../Constants";
 import { LeftCurve, RightCurve } from "./design/Collaboration";
 import { brainwaveSymbol, check } from "../../public/assets";
 import Button from "./Button";
