@@ -40,7 +40,7 @@ export const Hero = () => {
             anything from answering questions to providing personalized
             recommendations.
           </p>
-          <Button href="/pricing" white>
+          <Button href="#pricing" white>
             Get Started
           </Button>
         </div>
